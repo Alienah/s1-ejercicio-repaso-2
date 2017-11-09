@@ -1,0 +1,19 @@
+footer{
+	position: relative;
+	height: 100px;
+	margin-top: 50px;
+}
+
+.enlaces {
+    position: absolute;
+    margin-left: 135px;
+    margin-top: -20px;
+		height: 100%;
+	}
+.text-link{
+	display: inline-block;
+	vertical-align:middle;
+}
+img{
+	vertical-align: middle;
+}
